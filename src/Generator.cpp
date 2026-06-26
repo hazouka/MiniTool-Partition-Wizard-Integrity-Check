@@ -1,3 +1,9 @@
+#include "structs.hpp"
+
+#include <iostream>
+#include <print>
+#include <fstream>
+
 #include <QApplication>
 #include <QCryptographicHash>
 #include <QFile>
@@ -5,12 +11,7 @@
 #include <QLabel>
 
 #include <Windows.h>
-#include <fstream>
-#include <immintrin.h>
-#include <iostream>
-#include <print>
 
-#include "structs.hpp"
 
 auto DecompressMfhFile(char *KeyTable, QByteArray &mfh) {
   mfh.remove(0, 16);
