@@ -1,4 +1,3 @@
-
 #include "structs.hpp"
 
 #include <fstream>
