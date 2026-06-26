@@ -1,6 +1,6 @@
 # MiniTool-Partition-Wizard-Integrity-Check
 
-This is part of the blog post https://hazouka.github.io/RE-blog/?post=reverse-engineering-integrity-checks
+This is part of the blog post https://hazouka.github.io/reverse-engineering-integrity-checks/
 
 This Source has both a:
 
