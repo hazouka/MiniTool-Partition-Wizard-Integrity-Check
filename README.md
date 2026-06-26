@@ -4,7 +4,7 @@ This is part of the blog post https://hazouka.github.io/RE-blog/?post=reverse-en
 
 This Source has both a:
 
--Mfh File Generator
--Mfh File Parser
+- Mfh File Generator
+- Mfh File Parser
 
 i hope this was a helpful and your more than welcome to comment on the mistakes i make :)
